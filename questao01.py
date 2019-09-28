@@ -2,7 +2,7 @@ import re
 
 # Cifra de Vigenère
 
-class ConversorCifraVesemir:
+class ConversorCifraVigenere:
     def __init__(self, caracteres):
         self.caracteres = caracteres
 
@@ -61,7 +61,7 @@ if __name__ == "__main__":
     opcao = 1
     print('Informe os caracteres separando com espaço os caracteres: ', end='')
     chave = input().split(' ')
-    conversor = ConversorCifraVesemir(chave)
+    conversor = ConversorCifraVigenere(chave)
     while opcao != 3:
 
         print('1 - Cifrar\n2 - Decrifrar\n3 - Sair')
