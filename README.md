@@ -18,3 +18,7 @@ Espaços e outros caracteres especiais não fazem parte do texto simples.
 Para evidenciar o resultado deste exercício. Publique no AVA:
 
 Um print screen da tela do programa, contendo um texto simples, o texto cifrado equivalente e a chave utilizada.
+
+# Resposta:
+
+![Imagem da resolução](assets/questao01.png)
